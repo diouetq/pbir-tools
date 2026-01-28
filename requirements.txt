@@ -1,0 +1,6 @@
+# PBIR Tools - Requirements
+# Ce package utilise uniquement la bibliothèque standard Python
+# Aucune dépendance externe n'est requise pour l'utilisation de base
+
+# Dépendances de développement (optionnelles)
+# Pour installer : pip install -r requirements-dev.txt
