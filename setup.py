@@ -11,11 +11,11 @@ setup(
     name="pbir-tools",
     version="1.0.0",
     author="DIOUET",
-    author_email="votre.email@example.com",  # À personnaliser
+    author_email="diouet.pro@gmail.com",  # À personnaliser
     description="Bibliothèque d'automatisation pour Power BI (Format PBIR)",
     long_description=long_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/votre-username/pbir-tools",  # À personnaliser
+    url="https://github.com/diouetq/pbir-tools",  # À personnaliser
     packages=find_packages(),
     classifiers=[
         "Development Status :: 4 - Beta",
@@ -53,8 +53,8 @@ setup(
     },
     keywords="powerbi pbir automation reporting",
     project_urls={
-        "Bug Reports": "https://github.com/votre-username/pbir-tools/issues",
-        "Source": "https://github.com/votre-username/pbir-tools",
-        "Documentation": "https://github.com/votre-username/pbir-tools/blob/main/docs/usage.md",
+        "Bug Reports": "https://github.com/diouetq/pbir-tools/issues",
+        "Source": "https://github.com/diouetq/pbir-tools",
+        "Documentation": "https://github.com/diouetq/pbir-tools/blob/main/docs/usage.md",
     },
 )

@@ -8,7 +8,7 @@ Merci de votre intérêt pour contribuer à PBIR Tools ! 🎉
 
 ```bash
 # Fork le projet sur GitHub puis clonez votre fork
-git clone https://github.com/votre-username/pbir-tools.git
+git clone https://github.com/diouetq/pbir-tools.git
 cd pbir-tools
 ```
 
@@ -125,7 +125,7 @@ git commit -m "✨ Ajout de la fonction de validation des bookmarks"
 ### Bugs
 
 Si vous trouvez un bug :
-1. Vérifiez qu'il n'existe pas déjà dans les [issues](https://github.com/votre-username/pbir-tools/issues)
+1. Vérifiez qu'il n'existe pas déjà dans les [issues](https://github.com/diouetq/pbir-tools/issues)
 2. Créez une nouvelle issue avec :
    - Description claire du problème
    - Étapes pour reproduire
@@ -160,7 +160,7 @@ Toutes les contributions à la documentation sont les bienvenues !
 ## Questions ?
 
 N'hésitez pas à :
-- Ouvrir une [issue](https://github.com/votre-username/pbir-tools/issues)
+- Ouvrir une [issue](https://github.com/diouetq/pbir-tools/issues)
 - Demander de l'aide dans les discussions
 - Contacter les mainteneurs
 

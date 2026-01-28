@@ -6,7 +6,7 @@ build-backend = "setuptools.build_meta"
 name = "pbir-tools"
 version = "1.0.0"
 authors = [
-    {name = "DIOUET", email = "votre.email@example.com"},
+    {name = "DIOUET", email = "diouet.pro@gmail.com"},
 ]
 description = "Bibliothèque d'automatisation pour Power BI (Format PBIR)"
 readme = "README.md"

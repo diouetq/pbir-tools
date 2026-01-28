@@ -24,7 +24,7 @@ git commit -m "🎉 Version initiale 1.0.0"
 ### 3. Lier et pousser vers GitHub
 
 ```bash
-git remote add origin https://github.com/VOTRE_USERNAME/pbir-tools.git
+git remote add origin https://github.com/diouetq/pbir-tools.git
 git branch -M main
 git push -u origin main
 ```
@@ -51,7 +51,7 @@ Avant de pousser, modifiez ces éléments :
 Une fois publié sur GitHub, les utilisateurs pourront installer avec :
 
 ```bash
-pip install git+https://github.com/VOTRE_USERNAME/pbir-tools.git
+pip install git+https://github.com/diouetq/pbir-tools.git
 ```
 
 ---
@@ -124,9 +124,9 @@ twine upload dist/*
 Ajoutez ces badges en haut du README :
 
 ```markdown
-[![GitHub release](https://img.shields.io/github/v/release/VOTRE_USERNAME/pbir-tools.svg)](https://github.com/VOTRE_USERNAME/pbir-tools/releases)
-[![GitHub issues](https://img.shields.io/github/issues/VOTRE_USERNAME/pbir-tools.svg)](https://github.com/VOTRE_USERNAME/pbir-tools/issues)
-[![GitHub stars](https://img.shields.io/github/stars/VOTRE_USERNAME/pbir-tools.svg)](https://github.com/VOTRE_USERNAME/pbir-tools/stargazers)
+[![GitHub release](https://img.shields.io/github/v/release/diouetq/pbir-tools.svg)](https://github.com/diouetq/pbir-tools/releases)
+[![GitHub issues](https://img.shields.io/github/issues/diouetq/pbir-tools.svg)](https://github.com/diouetq/pbir-tools/issues)
+[![GitHub stars](https://img.shields.io/github/stars/diouetq/pbir-tools.svg)](https://github.com/diouetq/pbir-tools/stargazers)
 ```
 
 ---
@@ -136,7 +136,7 @@ Ajoutez ces badges en haut du README :
 ### Installation
 
 ```bash
-pip install git+https://github.com/VOTRE_USERNAME/pbir-tools.git
+pip install git+https://github.com/diouetq/pbir-tools.git
 ```
 
 ### Exemple d'utilisation

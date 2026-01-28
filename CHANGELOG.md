@@ -55,5 +55,5 @@ et ce projet adhère au [Semantic Versioning](https://semver.org/lang/fr/).
 - `Corrigé` pour les corrections de bugs
 - `Sécurité` pour les vulnérabilités corrigées
 
-[Non publié]: https://github.com/votre-username/pbir-tools/compare/v1.0.0...HEAD
-[1.0.0]: https://github.com/votre-username/pbir-tools/releases/tag/v1.0.0
+[Non publié]: https://github.com/diouetq/pbir-tools/compare/v1.0.0...HEAD
+[1.0.0]: https://github.com/diouetq/pbir-tools/releases/tag/v1.0.0

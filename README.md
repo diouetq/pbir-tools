@@ -17,7 +17,7 @@ Bibliothèque Python pour l'automatisation et la manipulation de rapports Power 
 
 ```bash
 # Cloner le repository
-git clone https://github.com/votre-username/pbir-tools.git
+git clone https://github.com/diouetq/pbir-tools.git
 cd pbir-tools
 
 # Installer le package
@@ -28,7 +28,7 @@ pip install -e .
 
 ```bash
 # Cloner et installer avec les dépendances de développement
-git clone https://github.com/votre-username/pbir-tools.git
+git clone https://github.com/diouetq/pbir-tools.git
 cd pbir-tools
 pip install -e ".[dev]"
 ```
@@ -183,7 +183,7 @@ Ce projet est sous licence MIT. Voir le fichier [LICENSE](LICENSE) pour plus de 
 ## 📞 Support
 
 Pour toute question ou problème :
-- Ouvrir une [issue](https://github.com/votre-username/pbir-tools/issues)
+- Ouvrir une [issue](https://github.com/diouetq/pbir-tools/issues)
 - Consulter la [documentation](docs/usage.md)
 
 ---
